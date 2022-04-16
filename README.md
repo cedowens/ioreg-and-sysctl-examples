@@ -1,2 +1,2 @@
 # ioreg-and-sysctl-examples
-Swift code to programmatically interact with ioreg and sysctl
+Basic examples of programmatically interacting with ioreg and sysutil in Swift to query system information.
