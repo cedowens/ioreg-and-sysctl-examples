@@ -11,3 +11,4 @@ Basic examples of programmatically interacting with ioreg and sysutil in Swift t
 - idle Time (IOServiceMatching query)
 - Checking Whether The Screen is Locked (via CGSSessionCopyCurrentDictionary)
 
+![Image](example.png)
