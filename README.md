@@ -1,5 +1,5 @@
 # ioreg-and-sysctl-examples
-Basic examples of programmatically interacting with ioreg and sysutil in Swift to query system information. This example queries the following information:
+Basic examples of programmatically interacting with ioreg and sysutil in Swift to query system information. Also included the programmatic way of cheking to see if the screen is currently locked. This example queries the following information:
 
 - Serial Number (IOServiceMatching query)
 - Architecture Info (sysctlbyname query)
