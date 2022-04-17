@@ -3,7 +3,7 @@ Basic examples of programmatically interacting with ioreg and sysutil in Swift t
 
 - Serial Number (IOServiceMatching query)
 - Architecture Info (sysctlbyname query)
-- Hardware Model (sysctlbyname query)
+- Hardware Model (sysctlbyname query) - used to check whether the host is a physical machine or a VM
 - Boot Time (sysctlbyname query)
 - Kernel Version (sysctlbyname query)
 - Memory (sysctlbyname query)
