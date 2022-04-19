@@ -1,7 +1,4 @@
-import Cocoa
 import Foundation
-import SQLite3
-import MachO
 import CoreFoundation
 import IOKit
 
